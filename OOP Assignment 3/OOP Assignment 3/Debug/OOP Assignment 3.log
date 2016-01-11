@@ -1,0 +1,12 @@
+﻿Build started 21/11/2013 7:14:28 PM.
+     1>Project "C:\Users\Adam\Documents\Visual Studio 2012\Projects\OOP Assignment 3\OOP Assignment 3\OOP Assignment 3.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Adam\Documents\Visual Studio 2012\Projects\OOP Assignment 3\Debug\OOP Assignment 3.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\Lib" /LIBPATH:"C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A" winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Adam\Documents\Visual Studio 2012\Projects\OOP Assignment 3\Debug\OOP Assignment 3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Adam\Documents\Visual Studio 2012\Projects\OOP Assignment 3\Debug\OOP Assignment 3.lib" /MACHINE:X86 Debug\Game.obj
+         Debug\main.obj
+     1>LINK : warning LNK4079: no write permission for incremental status file 'C:\Users\Adam\Documents\Visual Studio 2012\Projects\OOP Assignment 3\Debug\OOP Assignment 3.ilk'; linking nonincrementally
+     1>LINK : fatal error LNK1104: cannot open file 'C:\Users\Adam\Documents\Visual Studio 2012\Projects\OOP Assignment 3\Debug\OOP Assignment 3.exe'
+     1>Done Building Project "C:\Users\Adam\Documents\Visual Studio 2012\Projects\OOP Assignment 3\OOP Assignment 3\OOP Assignment 3.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.08
